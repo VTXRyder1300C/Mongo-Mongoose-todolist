@@ -1,6 +1,6 @@
 # Mongo-Mongoose-todolist
 
-Added Mongo and mongoose to save data into file  
+Added Mongo and mongoose to save and load data for the website. 
 
 To run navigate to directory using hyper or the terminal  and run the following commands:
 
